@@ -1,13 +1,12 @@
-Hello world!
-macOS, Hackintosh, and the ASUS TUF GAMING FX705GD. (my laptop)
-I tried making it run. So far:
+Hello world!    <br/>
+macOS, Hackintosh, and the ASUS TUF GAMING FX705GD. (my laptop)    <br/>
+I tried making it run. So far:    <br/>
 
-OS: MacOS Monterey (12)
-What works?
-Everything not cited below
-What dosen't work?
-Bluetooth
-Battery
-Sleep? (wake)
-Verbose mode still enabled
-SMBIOS config
+OS: MacOS Monterey (12)    <br/>
+What works?    <br/>
+Everything not cited below    <br/>
+What dosen't work?    <br/>
+Bluetooth    <br/>
+Sleep? (wake)    <br/>
+Verbose mode still enabled    <br/>
+You tell me     <br/>
