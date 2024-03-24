@@ -6,6 +6,5 @@ OS: MacOS Monterey (12)    <br/>
 What works?    <br/>
 Everything not cited below    <br/>
 What dosen't work?    <br/>
-Sleep? (wake)    <br/>
 Verbose mode still enabled    <br/>
 You tell me     <br/>
