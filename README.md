@@ -113,5 +113,5 @@ This repository couldn't be possible all to theses amazing people's projects and
 <br/><h2 align="center">🔗 Related Links</h2>
 
 [**Dortania's Installation Guide**](https://dortania.github.io/OpenCore-Install-Guide/): the go-to guide for how to Hackintosh and how to fix most of your errors.\
-[**Dortania's Buyers Guides**](https://dortania.github.io/getting-started/): useful guides to know which dongles/external devices to buy to give your/this Hackintosh more compatibility!\
+[**Dortania's Buyers Guides**](https://dortania.github.io/getting-started/): useful guides to know which dongles/external devices to buy to give your Hackintosh more compatibility!\
 [**Reddit**](https://www.reddit.com/r/hackintosh/): the Hackintosh community in reddit, perfect place for quick answers on any errors you could experience during this adventure!
