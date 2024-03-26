@@ -21,28 +21,28 @@ Applying Hackintosh on your Asus Tuf Gaming FX705GD (or any laptop for that matt
 - ❌ - Broken
 - ⛔ - Incompatible, won't be fixed
 
-| Component       | Model                                           | Status             |
-| --------------- | ------------------------------------------------ | --------------- |
-| `CPU`             | Intel Core i5-8300H (Coffee Lake)             | ✅             |
-| `GPU`             | NVIDIA Mobile 1050Ti                        | ⛔             |
-| `eGPU`            | Intel Graphics UHD 630                       | ✅             |
-| `Audio`           | Realtek ALC233                                | ⚠️             |
-| `Ethernet`        | Realtek RTL8168/8111                         | ✅             |
-| `Wi-Fi`          | Intel Wireless-AC 9560                  | ⚠️ Works, but quirks may occur |
-| `Bluetooth`      | Intel Bluetooth                              | ⚠️ Works, but quirks may occur |
-| `Touchpad`       | Trackpad ELAN1200 I2C-HID                    | ✅             |
-| `Keyboard`       | Keyboard PS2                                 | ✅             |
-| `Battery`        | Asus Default Battery                         | ✅             |
-| `Webcam`         | USB2.0 HD UVC WebCam Internal                                              | ✅             |
-| `Microphone`     | Realtek micwopon                                            | ⚠️             |
-| `USB Ports`     | 3 USB 2.0, 2 USB 3.1                                         | ✅             |
-| `Fans`           | 2 Fans                                              | ⚠️             |
+| Component       | Model                                           | Status             | Explanation             |
+| --------------- | ------------------------------------------------ | --------------- | ---------------          |
+| `CPU`             | Intel Core i5-8300H (Coffee Lake)             | ✅             | Just works |
+| `GPU`             | NVIDIA Mobile 1050Ti                        | ⛔             | Broken, no macOS drivers for NVIDIA GPUs since macOS High Sierra |
+| `eGPU`            | Intel Graphics UHD 630                       | ✅             | Works normally |
+| `Audio`           | Realtek ALC233                                | ✅             | Works normally |
+| `Ethernet`        | Realtek RTL8168/8111                         | ✅             | Works normally |
+| `Wi-Fi`          | Intel Wireless-AC 9560                  | ⚠️ | Works, but might have quirks. itlwm kexts are still experimental. | 
+| `Bluetooth`      | Intel Bluetooth                              | ⚠️ | Works, but might have quirks. Bluetooth support is very finnicky, and some devices won't work at ALL. | 
+| `Touchpad`       | Trackpad ELAN1200 I2C-HID                    | ✅             | Works normally | 
+| `Keyboard`       | Keyboard PS2                                 | ⚠️             | Works normally, but backlight and FN keys are half broken. | 
+| `Battery`        | Asus Default Battery                         | ✅             | Works normally | 
+| `Webcam`         | USB2.0 HD UVC WebCam Internal                                              | ✅             | Works normally | 
+| `Microphone`     | Realtek micwopon                                            | ✅             | Works normally | 
+| `USB Ports`     | 3 USB 2.0, 2 USB 3.1                                         | ✅             | Works, don't forget to map your USB ports | 
+| `Fans`           | 2 Fans                                              | ⚠️             | Works fine ofcourse, but fan control or speed readings don't work. |
 
 
 | Function       | Status             |
 | --------------- | --------------- |
 | `Sleep/Wake/Shutdown`  | ✅             |
-| `AirDrop`  | ✅             |
+| `AirDrop`  | ⚠️             |
 | `FaceTime/IMessage`  | ✅             |
 | `AirPlay`  | ✅             |
 
