@@ -104,10 +104,10 @@ This section has moved to my GitHub's Project tab of this project. You can view 
 
 This repository couldn't be possible all to theses amazing people's projects and contributions to the Hackintosh scene and this project:
 - [**ItzBenoitXD**](https://github.com/ItzBenoitXD) - he made the readme!!41!!1!1!1
-- [Dortania](https://dortania.github.io/) - For good guides such as Installing OpeNCore, debugging, and the Buyer's Guide.
+- [Dortania](https://dortania.github.io/) - For good guides such as Installing OpenCore, debugging, and the Buyer's Guide.
 - [Acidathera](https://github.com/acidanthera) - For OC and Kexts.
 - [RehabMan](https://github.com/RehabMan) - for ACPI Patching.
-- The Hackintosh community - for helping me with debugging the hackintosh.
+- The Hackintosh community - for helping me with debugging this hackintosh.
 
 <!-- Related Links -->
 <br/><h2 align="center">🔗 Related Links</h2>
