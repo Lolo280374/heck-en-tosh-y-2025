@@ -38,6 +38,7 @@ For legal reasons, the releases will only contain the EFI for this Hackintosh, a
 
 <br/><h3 align="center">⚠️ Warning ⚠️</h3>
 Don't forget to map your USB ports with something such as USBMap to make sure Bluetooth, webcam, and USB ports are correctly working.
+Don't forget to also generate a SMBIOS and putting the correct values according to it in the config.plist. The system probably won't boot without you doing that.
 
 - ✅ - Works as intended, tested
 - ⚠️ - In development, or fix in progress
