@@ -109,6 +109,8 @@ This repository couldn't be possible all to theses amazing people's projects and
 - [Dortania](https://dortania.github.io/) - For good guides such as Installing OpenCore, debugging, and the Buyer's Guide.
 - [Acidathera](https://github.com/acidanthera) - For OC and Kexts.
 - [RehabMan](https://github.com/RehabMan) - for ACPI Patching.
+- [doanhxd](https://github.com/doanhxd/Asus-TUF-Gaming-FX505GE-Hackintosh) - I used this EFI as the baseline of this Hackintosh. This EFI would have never been possible without him! :D
+- [DotCube123](https://github.com/DotCube123/Asus-Tuf-Gaming-FX705GE-Hackintosh) - I used this EFI for reference with newer macOS versions and to fix some issues in the base EFI.
 - The Hackintosh community - for helping me with debugging this hackintosh.
 
 <!-- Related Links -->
