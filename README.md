@@ -17,6 +17,8 @@ This EFI will only work for the **Asus Tuf Gaming FX705GD** laptop **ONLY**. The
 
 Attempting to use this EFI on your Asus Tuf Gaming FX705GD (or any laptop for that matter) can lead to an unstable system, and unexpected issues may occur. I take no responsibility for any damage, data loss, or malfunction caused by the use of this project. Proceed at your own risk.
 
+For legal reasons, the releases will only contain the EFI for this Hackintosh, and not the macOS Installer files. You can grab them at Dortania's Guide however.
+
 <!-- Showcase -->
 <br/><h2 align="center">📷 Showcase</h2>
 
