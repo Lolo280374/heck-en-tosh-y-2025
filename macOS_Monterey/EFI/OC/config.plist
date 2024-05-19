@@ -1075,21 +1075,21 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02819501GUJP4F1H</string>
+			<string>GenerateMeUsingGenSMBios</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>5OSr6H1F</data>
+			<data>GenerateMeUsingGenSMBios</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02WP0QNKGYG</string>
+			<string>GenerateMeUsingGenSMBios</string>
 			<key>SystemUUID</key>
-			<string>BFFFC54B-8950-4B16-8E95-A12059CD6D68</string>
+			<string>GenerateMeUsingGenSMBios-GenerateMeUsingGenSMBios</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
