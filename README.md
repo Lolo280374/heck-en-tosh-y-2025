@@ -95,7 +95,7 @@ This section has moved to my GitHub's Project tab of this project. You can view 
 <!-- Stargazers -->
 <br/><h2 align="center">🌟 Stargazers</h2>
 
-<a href="https://github.com/Lolo280374/Hackintosh-TUFGAMING-FX705GD/stargazers">
+<a href="https://github.com/Lolo280374/heck-en-tosh-y-2025/stargazers">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/Lolo280374/Hackintosh-TUFGAMING-FX705GD">
     <img alt="stargazer-widget" src="https://reporoster.com/stars/dark/Lolo280374/Hackintosh-TUFGAMING-FX705GD">
